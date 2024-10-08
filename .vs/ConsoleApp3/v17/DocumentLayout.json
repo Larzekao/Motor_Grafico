@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82A7E2DA-AD24-46CF-A758-AA8ED3EE5DB2}|AppMotorGrafico\\AppMotorGrafico.csproj|c:\\users\\lenovo\\desktop\\universidad\\6 semestre\\programacion grafica\\practicas\\programacion-grafica-full-main\\appmotorgrafico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A7E2DA-AD24-46CF-A758-AA8ED3EE5DB2}|AppMotorGrafico\\AppMotorGrafico.csproj|solutionrelative:appmotorgrafico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A7E2DA-AD24-46CF-A758-AA8ED3EE5DB2}|AppMotorGrafico\\AppMotorGrafico.csproj|C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\appmotorgrafico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82A7E2DA-AD24-46CF-A758-AA8ED3EE5DB2}|AppMotorGrafico\\AppMotorGrafico.csproj|solutionrelative:appmotorgrafico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Form1.cs",
+              "RelativeDocumentMoniker": "AppMotorGrafico\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Form1.cs",
+              "RelativeToolTip": "AppMotorGrafico\\Form1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA6wCAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:55:04.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Form1.cs",
+              "RelativeDocumentMoniker": "AppMotorGrafico\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Universidad\\6 Semestre\\programacion grafica\\practicas\\Programacion-grafica-full-main\\AppMotorGrafico\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppMotorGrafico\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:48:56.902Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
